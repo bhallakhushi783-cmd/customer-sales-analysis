@@ -1,0 +1,8 @@
+Customer,City,Product,Price,Quantity,Order_Date
+Amit,Delhi,Laptop,50000,1,2024-01-10
+Riya,Mumbai,Phone,20000,2,2024-01-12
+Amit,Delhi,Mouse,500,3,2024-01-15
+Neha,Jaipur,Laptop,52000,1,2024-01-18
+Riya,Mumbai,Tablet,15000,1,2024-01-20
+Karan,Delhi,Phone,21000,2,2024-01-22
+Neha,Jaipur,Mouse,400,2,2024-01-25
