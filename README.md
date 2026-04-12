@@ -58,3 +58,7 @@ Future Improvements
 - Data cleaning enhancements
 - SQL integration
 - Interactive dashboards (Power BI / Streamlit)
+
+Dashboard preview
+<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/6a4ed347-df0a-489d-90fb-82e1ea7ace67" />
+
