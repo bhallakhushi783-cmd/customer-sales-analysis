@@ -60,5 +60,6 @@ Future Improvements
 - Interactive dashboards (Power BI / Streamlit)
 
 Dashboard preview
-<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/6a4ed347-df0a-489d-90fb-82e1ea7ace67" />
+<img width="1703" height="668" alt="image" src="https://github.com/user-attachments/assets/58eaf967-71b5-45dd-9847-3f02dc3a07db" />
+
 
